@@ -74,7 +74,7 @@ body
     position: relative;
     width: 36px;
     height: 28px;
-    background: url(files/toggle.png);
+    background: url(toggle.png);
     background-size: cover;
     cursor: pointer;
 }
@@ -107,7 +107,7 @@ body
 }
 .about .imgBx
 {
-    background: url(files/my_photo.jpeg);
+    background: url(my_photo.jpeg);
     width: 50%;
     background-size: cover;
     background-position: center;
@@ -205,14 +205,14 @@ body
 }
 .imgBx2
 {
-    background: url(files/bg2.jpg);
+    background: url(bg2.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
 }
 .redbg
 {
-    background: url(files/red.jpg) !important;
+    background: url(red.jpg) !important;
     background-size: cover;
     background-position: center;
 }
